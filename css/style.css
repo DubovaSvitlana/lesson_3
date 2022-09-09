@@ -1,0 +1,52 @@
+
+h1,
+.footer {
+    color: rgb(129, 24, 24);
+}
+
+h2 {
+    color: rgb(71, 67, 67);
+}
+
+a {
+    color: rgb(17, 16, 16);
+}
+
+a:hover {
+    color: firebrick;
+    font-size: large;
+}
+
+.service > p {
+    color: rgb(95, 111, 111);
+}
+
+.slogan {
+color: brown;
+font-weight: bold;
+}
+
+.name {
+    color: teal;
+}
+
+.story-start {
+    color: #000;
+    
+}
+.story-next {
+    color: rgb(59, 52, 52);
+
+}
+
+.story-finish {
+    color: rgb(129, 122, 122);
+
+}
+
+
+.footer {
+    text-align: center;
+    font-size: larger;
+    font-weight: bold;
+}
